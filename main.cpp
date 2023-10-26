@@ -9,7 +9,7 @@ int main() {
   cout << "Enter your weight in pounds: ";
   cin >> pounds;
   
-  kilograms = pounds / 2.20462;
+  kilograms = pounds / 2.20462; // example of the decimal value here
   cout << "Your weight in kilograms: " << kilograms << endl;
 }
 // end
